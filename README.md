@@ -2,7 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99004a&size=35&center=true&vCenter=true&width=1000&lines=Hi+There,+My+name+is+Sylvia+Avelar+;I'm+a+Quality+Assurance+Analyst;+and+I'm+studying+Computer+Engineering+in+Portugal.)](https://git.io/typing-svg)
 
 
+
 <div align="center">  
+
+
+![QA-chill-wallpaper](https://github.com/Syslab888/Syslab888/assets/80926658/09db7d23-914a-4781-bc03-29095a9a32f1)
+
+<div align="center"> 
 <a href="https://www.sylviaavelar.com/" target="_blank"><img src="https://img.shields.io/badge/-Personal Website-99004a?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
