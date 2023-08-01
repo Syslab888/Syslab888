@@ -19,6 +19,8 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-0D1117?style=for-the-badge&logo=robot_framework&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Katalon Studio](https://img.shields.io/badge/-katalon_studio-0D1117?style=for-the-badge&logo=katalon_studio&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Jmeter](https://img.shields.io/badge/-Jmeter-0D1117?style=for-the-badge&logo=jmeter&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
