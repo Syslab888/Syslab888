@@ -5,8 +5,9 @@
 
 <div align="center">  
 
+![QA - Chill](https://github.com/Syslab888/Syslab888/assets/80926658/5352e0f1-f728-4aa1-be13-bb4775c8748c)
 
-![QA-chill-wallpaper](https://github.com/Syslab888/Syslab888/assets/80926658/09db7d23-914a-4781-bc03-29095a9a32f1)
+
 
 <div align="center"> 
 <a href="https://www.sylviaavelar.com/" target="_blank"><img src="https://img.shields.io/badge/-Personal Website-99004a?style=for-the-badge&logo=instagram&logoColor=white"</a>
