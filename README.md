@@ -34,6 +34,7 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=aws&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
 ![Monday](https://img.shields.io/badge/-Monday-0D1117?style=for-the-badge&logo=minday&labelColor=0D1117)&nbsp;
@@ -47,6 +48,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Browserstack](https://img.shields.io/badge/-Browserstack-0D1117?style=for-the-badge&logo=browserstack.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
   
 
