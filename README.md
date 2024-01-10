@@ -18,32 +18,31 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Playwright](https://img.shields.io/badge/-playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-0D1117?style=for-the-badge&logo=robot_framework&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Katalon Studio](https://img.shields.io/badge/-katalon_studio-0D1117?style=for-the-badge&logo=katalon_studio&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jmeter](https://img.shields.io/badge/-Jmeter-0D1117?style=for-the-badge&logo=jmeter&labelColor=0D1117&textColor=0D1117)&nbsp;
+![K6](https://img.shields.io/badge/-K6-0D1117?style=for-the-badge&logo=k6&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-sublime_text-0D1117?style=for-the-badge&logo=sublime&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Spyder](https://img.shields.io/badge/-spyder-0D1117?style=for-the-badge&logo=spyder&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-jupyter_notebook-0D1117?style=for-the-badge&logo=jupyter_notebook&logoColor=90ee90&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0D1117?style=for-the-badge&logo=bitbucket&labelColor=0D1117)&nbsp;
 ![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&labelColor=0D1117)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
 ![Monday](https://img.shields.io/badge/-Monday-0D1117?style=for-the-badge&logo=minday&labelColor=0D1117)&nbsp;
 ![Qase](https://img.shields.io/badge/-Qase-0D1117?style=for-the-badge&logo=qase&labelColor=0D1117)&nbsp;
 ![Pivotal Tracker](https://img.shields.io/badge/-Pivotal_tracker-0D1117?style=for-the-badge&logo=privotal_tracker&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
 
  
 ### Other Knowledge: 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Browserstack](https://img.shields.io/badge/-Browserstack-0D1117?style=for-the-badge&logo=browserstack.js&labelColor=0D1117&textColor=0D1117)&nbsp;
